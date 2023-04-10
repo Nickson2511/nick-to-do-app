@@ -21,4 +21,6 @@
  #Ensure you have git in your os.
  
  #clone this project by typing git clone and add the above link besides it.
+ #open the file named index.html on your favorite browser.
+ #You can modify this code the way you love it.
 
